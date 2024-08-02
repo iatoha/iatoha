@@ -1,5 +1,5 @@
   <img src="istockphoto-1669453534-1024x1024.jpg" alt="">
-   <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" ></iframe></div>
+  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" ></iframe>
 
 👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERN Stack Developer, Serious learner, and computer science student.
 
