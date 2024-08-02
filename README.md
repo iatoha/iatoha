@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" alt="">
+![Alt Text]("https://giphy.com/embed/RbDKaczqWovIugyJmW)
 
 👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERN Stack Developer, Serious learner, and computer science student.
 
