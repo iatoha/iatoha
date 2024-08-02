@@ -1,6 +1,7 @@
-![Alt Text]("https://giphy.com/embed/RbDKaczqWovIugyJmW)
+![Alt Text]("https://giphy.com/embed/RbDKaczqWovIugyJmW")
 
-👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERN Stack Developer, Serious learner, and computer science student.
+
+👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERNStack Developer, Serious learner, and computer science student.
 
 I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻
 
