@@ -1,4 +1,5 @@
 ![Alt Text]("https://giphy.com/embed/RbDKaczqWovIugyJmW")
+[Check out this animation]("https://giphy.com/embed/RbDKaczqWovIugyJmW")
 
 
 👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERNStack Developer, Serious learner, and computer science student.
