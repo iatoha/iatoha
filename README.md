@@ -3,7 +3,7 @@
 <img alt="" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif">
 
 <h3 align="center">A passionate MERN Stack Developer, Serious learner, and computer science student.</h3>
-<img align="right" alt="Coding" width="400" src="[(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdzMWc0MnA3MWwxeTMzYjZkbzJqMjZvcnB2enJtNDVpbHZsNHNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif))">
+<img align="right" alt="Coding" width="400" src="(https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iatoha&label=Profile%20views&color=0e75b6&style=flat" alt="iatoha" /> </p>
 
