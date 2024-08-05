@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismam Ahmmed Toha</h1>
 
-<img src="(https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)">
+<img src="[(https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif)">
 
 <h3 align="center">A passionate MERN Stack Developer, Serious learner, and computer science student.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
