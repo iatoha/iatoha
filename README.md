@@ -15,7 +15,8 @@ I love creating beautiful web solutions and sharing my coding knowledge. I'm alw
 - 💬 Ask me about **React JS, javaScript, ES6, Node Js, Express Js**
 - 📫 How to reach me **iatohaph@gmail.com**
 - 📄 Know about my experiences (Resume is currently oading)
-- ⚡ Fun fact **⚡ Fun fact I thrive on a concoction of memes, music that hits the soul, and a penchant for the darkest humor. 🎵😄🖤 -->**
+- ⚡ Fun fact **⚡ Fun fact I thrive on a concoction of memes,                                                                                                                                                         
+ music that hits the soul, and a penchant for the darkest humor. 🎵😄🖤 -->**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
