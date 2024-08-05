@@ -1,7 +1,7 @@
 <img src="istockphoto-1669453534-1024x1024.jpg" alt=""> 
 
 
-👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERNStack Developer, Serious learner, and computer science student.
+<h1>👋 Greetings! I'm ismam Ahmmed Toha, a passionate MERNStack Developer, Serious learner, and computer science student.</h1>
 
 I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻
 
