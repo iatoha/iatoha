@@ -11,7 +11,7 @@
 
 I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻
 
-<img align="right" alt="Coding" width="400px" height="300px" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="400px" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif">
 
 - 🔭 I’m currently working on no where just learning...
 - 🌱 I’m currently learning Javascript, Next Js , TypeScript , Node Js , Express Js
