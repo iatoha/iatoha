@@ -11,7 +11,7 @@
 
 I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻
 
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/3b/18/a7/3b18a7d38e9257dfa76ef65a55a87c01.gif">
+<img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/3b/18/a7/3b18a7d38e9257dfa76ef65a55a87c01.gif">
 
 - 🔭 I’m currently working on no where just learning...
 - 🌱 I’m currently learning Javascript, Next Js , TypeScript , Node Js , Express Js
