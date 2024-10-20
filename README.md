@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iatoha&label=Profile%20views&color=0e75b6&style=flat" alt="iatoha" /> </p>
 
-<img align="right" alt="Coding" width="400px" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b7611j3cvewr8i2oz0f9589gfl8jn4fup4xn86hc0jt82&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-
 <p align="left"> <a href="https://twitter.com/toha0177" target="blank"><img src="https://img.shields.io/twitter/follow/toha0177?logo=twitter&style=for-the-badge" alt="toha0177" /></a> </p>
+
+<img align="right" alt="Coding" width="400px" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b7611j3cvewr8i2oz0f9589gfl8jn4fup4xn86hc0jt82&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻
 
