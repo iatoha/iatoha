@@ -5,7 +5,7 @@
 <h3 align="center">👋 Greetings! A passionate MERN Stack Developer, Serious learner, and computer science student.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="(https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)"> -->
 
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif](https://i.pinimg.com/originals/3b/18/a7/3b18a7d38e9257dfa76ef65a55a87c01.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3b/18/a7/3b18a7d38e9257dfa76ef65a55a87c01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iatoha&label=Profile%20views&color=0e75b6&style=flat" alt="iatoha" /> </p>
 
