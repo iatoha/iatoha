@@ -11,7 +11,7 @@
 
 I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻
 
-<p> <img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/3b/18/a7/3b18a7d38e9257dfa76ef65a55a87c01.gif"> </p>
+<p> <img align="right" alt="Coding" width="400px" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b7611j3cvewr8i2oz0f9589gfl8jn4fup4xn86hc0jt82&ep=v1_gifs_search&rid=giphy.webp&ct=g"> </p>
 
 - 🔭 I’m currently working on no where just learning...
 - 🌱 I’m currently learning Javascript, Next Js , TypeScript , Node Js , Express Js
