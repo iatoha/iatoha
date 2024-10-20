@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismam Ahmmed Toha</h1>
 
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
 <h3 align="center">A passionate MERN Stack Developer, Serious learner, and computer science student.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="(https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)"> -->
